@@ -10,6 +10,7 @@
 [![Language: Rust](https://img.shields.io/badge/Language-Rust--1.97-orange.svg)](https://www.rust-lang.org)
 [![Memory: Zero-Allocation](https://img.shields.io/badge/Memory-Zero--GC--Allocation-green.svg)]()
 [![CV: Noxferion](https://img.shields.io/badge/Author-CV--Noxferion-purple.svg)](https://github.com/cyberenigma-lgtm/CV-Noxferion)
+[![Legal Disclaimer](https://img.shields.io/badge/Legal-Disclaimer--%26--Liability-red.svg)](DISCLAIMER.md)
 
 ---
 
@@ -17,19 +18,21 @@
 
 Compiled natively on hardware using `cargo build --release` over an **Intel Core Ultra 9** architecture, this single-binary multi-tool achieves nanosecond-level processing speed with **absolute zero garbage collection overhead**:
 
+![Silicon Telemetry Terminal Execution](assets/terminal_telemetry.png)
+
 ```text
 ================================================================================
 🦀 [SOVEREIGN MASTER SUITE - RUST NATIVE EDITION] TELEMETRÍA DE SILICIO
 ================================================================================
 1️⃣  [NeuroCOBOL-V3.0 Rust] Paquete .gxp 4096 Bytes | Sello: 0x4A4D4D43 (*JMMC*)
-2️⃣  [UNIVERSAL-POLYGLOT-LAYER Rust] 2 Bloques IR | Latencia: 0 ns (Zero-GC)
+2️⃣  [UNIVERSAL-POLYGLOT-LAYER Rust] 2 Bloques IR | Latencia: 100 ns (Zero-GC)
 3️⃣  [MultiLang-ASM Rust v0.7] 3 Instrucciones Traducidas -> NASM x86_64
 4️⃣  [NeuroUniversalASM Rust] Opcodes Direct-to-Silicon: [B8, 2A, 83, A, C3]
 5️⃣  [NeuroWill-Code Rust] Intención Semántica Ejecutada en 0 ns | Opcodes: [B8, 2A, 0, 0, 0, 83, C0, A, C3]
 6️⃣  [Neuro-probe Rust] Paridad Bit/Bit: 100% BIT-PARITY MATCH (GREEN_HOMEOSTASIS) | Analizado en 0 ns
 ================================================================================
 🏆 TELEMETRÍA EN TIEMPO REAL — RUST NATIVE SPEED:
-   ├─ Latencia Total Integrada de la Suite: 26.7µs
+   ├─ Latencia Total Integrada de la Suite: 355.3µs
    ├─ Pausas de Garbage Collection:         0.00 ns (NATIVE ZERO-GC)
    └─ Estado:                               🟢 100% SILICON HARDWARE PARITY
 ================================================================================
@@ -47,6 +50,12 @@ The **Sovereign Master Suite** acts as a unified perimetric gate to compile, tra
 4. 🚀 [**NeuroUniversalASM**](https://github.com/cyberenigma-lgtm/NeuroUniversalASM): Direct-to-silicon compilation for 51 languages natively (compiles directly into raw opcodes, no intermediate English translation).
 5. 🧠 [**NeuroWill-Code**](https://github.com/cyberenigma-lgtm/NeuroWill-Code): C++ Neural-to-Binary engine in charge of parsing semantic intent declarations into executable instruction packets.
 6. 🔍 [**Neuro-probe**](https://github.com/cyberenigma-lgtm/Neuro-probe): Parallel multi-emulator validator that spins kernel binaries simultaneously across QEMU, VirtualBox, and Bochs to map hardware divergence in seconds.
+
+---
+
+## 📖 System Wiki & Documentation
+- [**WIKI_MASTER.md**](WIKI_MASTER.md): Complete technical wiki for the 6 open-source repositories.
+- [**DISCLAIMER.md**](DISCLAIMER.md): Legal Disclaimer & Limitation of Liability.
 
 ---
 
@@ -72,4 +81,5 @@ cargo build --release
 - **Author / CV**: [José Manuel Moreno (Noxferion)](https://github.com/cyberenigma-lgtm/CV-Noxferion)
 - **Safe Creative Intellectual Property ID**: 2609217054592
 - **Spanish Central Intellectual Property Registry**: Expediente 00765-02939466
+- **Legal Disclaimer**: [**DISCLAIMER.md**](DISCLAIMER.md) — Author is not responsible for any misuse of the software.
 - **License**: GNU General Public License v3.0 (GPL-3.0)
