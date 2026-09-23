@@ -1,5 +1,7 @@
 # 🜏 Sovereign Master Suite (Rust Native Core) 🛡️🚀
 
+[🇪🇸 Español](README.md) | [🇬🇧 English](docs/README_EN.md) | [🇵🇹 Português](docs/README_PT.md) | [🇫🇷 Français](docs/README_FR.md) | [🇨🇳 中文](docs/README_ZH.md) | [🇰🇷 한국어](docs/README_KO.md) | [🇯🇵 日本語](docs/README_JA.md)
+
 **The High-Performance Native Orchestrator & Silicon Injector for Neuro-OS 1.1.0-DEF**
 
 *Architected by José Manuel Moreno Cano (Noxferion) — Berriosuso (Navarra), Spain*
@@ -22,11 +24,11 @@ Compiled natively on hardware using `cargo build --release` over an **Intel Core
 2️⃣  [UNIVERSAL-POLYGLOT-LAYER Rust] 2 Bloques IR | Latencia: 0 ns (Zero-GC)
 3️⃣  [MultiLang-ASM Rust v0.7] 3 Instrucciones Traducidas -> NASM x86_64
 4️⃣  [NeuroUniversalASM Rust] Opcodes Direct-to-Silicon: [B8, 2A, 83, A, C3]
-5️⃣  [NeuroWill-Code Rust] Intención Semántica Ejecutada en 100 ns | Opcodes: [B8, 2A, 0, 0, 0, 83, C0, A, C3]
+5️⃣  [NeuroWill-Code Rust] Intención Semántica Ejecutada en 0 ns | Opcodes: [B8, 2A, 0, 0, 0, 83, C0, A, C3]
 6️⃣  [Neuro-probe Rust] Paridad Bit/Bit: 100% BIT-PARITY MATCH (GREEN_HOMEOSTASIS) | Analizado en 0 ns
 ================================================================================
 🏆 TELEMETRÍA EN TIEMPO REAL — RUST NATIVE SPEED:
-   ├─ Latencia Total Integrada de la Suite: 37.6µs
+   ├─ Latencia Total Integrada de la Suite: 26.7µs
    ├─ Pausas de Garbage Collection:         0.00 ns (NATIVE ZERO-GC)
    └─ Estado:                               🟢 100% SILICON HARDWARE PARITY
 ================================================================================
