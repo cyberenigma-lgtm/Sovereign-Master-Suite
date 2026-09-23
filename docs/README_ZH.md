@@ -4,7 +4,7 @@
 
 **Neuro-OS 1.1.0-DEF 高性能原生编排器与硅芯片注入器**
 
-*架构师：José Manuel Moreno (Noxferion) — 贝里奥苏索 (纳瓦拉), 西班牙*
+*架构师：[José Manuel Moreno (Noxferion)](https://github.com/cyberenigma-lgtm/CV-Noxferion) — 贝里奥苏索 (纳瓦拉), 西班牙*
 
 [![许可证: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![语言: Rust](https://img.shields.io/badge/Language-Rust--1.97-orange.svg)](https://www.rust-lang.org)
@@ -48,7 +48,7 @@
 ---
 
 ## 📜 知识产权与治理
-- **作者**: José Manuel Moreno (Noxferion)
+- **作者**: [José Manuel Moreno (Noxferion)](https://github.com/cyberenigma-lgtm/CV-Noxferion)
 - **Safe Creative 知识产权编号**: 2609217054592
 - **西班牙中央知识产权登记局**: 卷宗 00765-02939466
 - **许可证**: GNU 通用公共许可证 v3.0 (GPL-3.0)

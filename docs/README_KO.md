@@ -4,7 +4,7 @@
 
 **Neuro-OS 1.1.0-DEF 고성능 네이티브 오케스트레이터 및 실리콘 인젝터**
 
-*아키텍트: José Manuel Moreno (Noxferion) — 베리오수소 (나바라), 스페인*
+*아키텍트: [José Manuel Moreno (Noxferion)](https://github.com/cyberenigma-lgtm/CV-Noxferion) — 베리오수소 (나바라), 스페인*
 
 [![라이선스: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![언어: Rust](https://img.shields.io/badge/Language-Rust--1.97-orange.svg)](https://www.rust-lang.org)
@@ -48,7 +48,7 @@
 ---
 
 ## 📜 지적 재산권 및 거버넌스
-- **작성자**: José Manuel Moreno (Noxferion)
+- **작성자**: [José Manuel Moreno (Noxferion)](https://github.com/cyberenigma-lgtm/CV-Noxferion)
 - **Safe Creative 지적 재산권 ID**: 2609217054592
 - **스페인 중앙 지적 재산권 등록청**: 서류 00765-02939466
 - **라이선스**: GNU General Public License v3.0 (GPL-3.0)
