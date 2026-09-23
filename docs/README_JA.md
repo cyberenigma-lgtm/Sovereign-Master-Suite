@@ -4,7 +4,7 @@
 
 **Neuro-OS 1.1.0-DEF 高性能ネイティブオーケストレーター & シリコンインジェクター**
 
-*アーキテクト: José Manuel Moreno Cano (Noxferion) — ベリオスソ (ナバラ州), スペイン*
+*アーキテクト: José Manuel Moreno (Noxferion) — ベリオスソ (ナバラ州), スペイン*
 
 [![ライセンス: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![言語: Rust](https://img.shields.io/badge/Language-Rust--1.97-orange.svg)](https://www.rust-lang.org)
@@ -48,7 +48,7 @@
 ---
 
 ## 📜 知的所有権およびガバナンス
-- **著者**: José Manuel Moreno Cano (Noxferion)
+- **著者**: José Manuel Moreno (Noxferion)
 - **Safe Creative 知的所有権 ID**: 2609217054592
 - **スペイン中央知的所有権登録局**: 案件 00765-02939466
 - **ライセンス**: GNU General Public License v3.0 (GPL-3.0)

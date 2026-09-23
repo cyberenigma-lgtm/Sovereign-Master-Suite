@@ -4,7 +4,7 @@
 
 **Orquestrador Nativo de Alto Desempenho e Injetor de Silício para Neuro-OS 1.1.0-DEF**
 
-*Arquiteto: José Manuel Moreno Cano (Noxferion) — Berriosuso (Navarra), Espanha*
+*Arquiteto: José Manuel Moreno (Noxferion) — Berriosuso (Navarra), Espanha*
 
 [![Licença: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 [![Linguagem: Rust](https://img.shields.io/badge/Language-Rust--1.97-orange.svg)](https://www.rust-lang.org)
@@ -48,7 +48,7 @@ Compilado nativamente no hardware usando `cargo build --release` em arquitetura 
 ---
 
 ## 📜 Propriedade Intelectual e Governança
-- **Autor**: José Manuel Moreno Cano (Noxferion)
+- **Autor**: José Manuel Moreno (Noxferion)
 - **Safe Creative Intellectual Property ID**: 2609217054592
 - **Registro Central de Propriedade Intelectual da Espanha**: Expediente 00765-02939466
 - **Licença**: GNU General Public License v3.0 (GPL-3.0)
